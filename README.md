@@ -26,9 +26,9 @@ SIMAK (Sistem Akademik Mahasiswa) adalah aplikasi berbasis web yang dirancang un
 ## 👥 Tim Pengembang
 | No | Nama | Peran |
 |----|------|------|
-| 1 |  | Project Manager & System Analyst |
-| 2 |  | UI/UX Designer |
-| 3 |  | Front End Developer |
+| 1 |  Qolbiah  | Project Manager & System Analyst |
+| 2 | Meisa Andani | UI/UX Designer |
+| 3 | Selvi Oktaviani | Front End Developer |
 | 4 | Khoirun Nisa Nasution | Back End Developer & Tester |
 
 ---
